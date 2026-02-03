@@ -70,23 +70,23 @@ challenges through technology.
 
 📞 CONTACT INFORMATION
 -------------------
-📧 Email: mahabubkowsar21@gmail.com
-📱 Phone: +880 1307141820
-🔗 LinkedIn: linkedin.com/in/mahabub-ahmed-kowsar-505220328
-💻 GitHub: github.com/Mahabub21
+📧 Email: mahabubkowsar21@gmail.com<br>
+📱 Phone: +880 1307141820<br>
+🔗 LinkedIn: linkedin.com/in/mahabub-ahmed-kowsar-505220328<br>
+💻 GitHub: github.com/Mahabub21<br>
 🌐 Portfolio: mahabub21.github.io/Portfolio/
 
 ⚙️ PROFILE SETUP DETAILS
 ----------------------
-👤 Name: Mahabub Ahmed Kowsar
-🏫 Company: North South University (Computer Science Student)
-📍 Location: Dhaka, Bangladesh
+👤 Name: Mahabub Ahmed Kowsar<br>
+🏫 Company: North South University (Computer Science Student)<br>
+📍 Location: Dhaka, Bangladesh<br>
 🌐 Website: https://mahabub21.github.io/Portfolio/
 
 📂 REPOSITORY SUGGESTIONS
 ----------------------
-🔥 Current Project: Credit-Score-ML-Classifier, AI-Credit-Score-Predictor
-📁 Previous Projects: Mental-Health-Counseling-WebApp, Hospital-Management-System-PHP
+🔥 Current Project: Credit-Score-ML-Classifier, AI-Credit-Score-Predictor<br>
+📁 Previous Projects: Mental-Health-Counseling-WebApp, Hospital-Management-System-PHP<br>
 🎨 Portfolio: Mahabub21 (Profile README), Portfolio-Website
 
 🏷️ RECOMMENDED REPOSITORY TAGS
