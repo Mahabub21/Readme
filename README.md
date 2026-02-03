@@ -1,4 +1,4 @@
-🚀 MAHABUB AHMED KOWSAR 🚀
+🚀 MAHABUB AHMED KOWSAR 🚀 <br>
 💻 Computer Science & Engineering Student | Frontend Developer | ML Enthusiast 🤖
 ================================================================================
 
