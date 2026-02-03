@@ -77,9 +77,9 @@ challenges through technology.
 
 ⚙️ PROFILE SETUP DETAILS
 ----------------------
-👤 Name: Mahabub Ahmed Kowsar
-🏫 Company: North South University (Computer Science Student)
-📍 Location: Dhaka, Bangladesh
+👤 Name: Mahabub Ahmed Kowsar<br>
+🏫 Company: North South University (Computer Science Student)<br>
+📍 Location: Dhaka, Bangladesh<br>
 🌐 Website: <a href="https://mahabub21.github.io/Portfolio/" target="_blank">mahabub21.github.io/Portfolio/</a><br>
 
 📂 REPOSITORY SUGGESTIONS
