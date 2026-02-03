@@ -71,7 +71,6 @@ challenges through technology.
 📞 CONTACT INFORMATION
 -------------------
 📧 Email: mahabubkowsar21@gmail.com<br>
-📱 Phone: +880 1307141820<br>
 🔗 LinkedIn: https://linkedin.com/in/mahabub-ahmed-kowsar-505220328<br>
 💻 GitHub: https://github.com/Mahabub21<br>
 🌐 Portfolio: https://mahabub21.github.io/Portfolio/
