@@ -1,8 +1,11 @@
-🚀 MAHABUB AHMED KOWSAR 🚀 <br>
-💻 Computer Science & Engineering Student | Frontend Developer | ML Enthusiast 🤖
+<div align="center">
+<h1>🚀 MAHABUB AHMED KOWSAR 🚀</h1>
+<br>
+<h3>💻 Computer Science & Engineering Student | Frontend Developer | ML Enthusiast 🤖</h3>
+</div>
 ================================================================================
 
-📱  BIO SECTION
+📱 GITHUB BIO SECTION
 ------------------
 🎓 Final-year Computer Science & Engineering Student at North South University
 💻 Frontend Developer | Python & Machine Learning Enthusiast
