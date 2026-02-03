@@ -70,17 +70,18 @@ challenges through technology.
 
 📞 CONTACT INFORMATION
 -------------------
-📧 Email: mahabubkowsar21@gmail.com<br>
-🔗 LinkedIn: https://linkedin.com/in/mahabub-ahmed-kowsar-505220328<br>
-💻 GitHub: https://github.com/Mahabub21<br>
-🌐 Portfolio: https://mahabub21.github.io/Portfolio/
+📧 Email: <a href="mailto:mahabubkowsar21@gmail.com" target="_blank">mahabubkowsar21@gmail.com</a><br>
+📱 Phone: +880 1307141820<br>
+🔗 LinkedIn: <a href="https://linkedin.com/in/mahabub-ahmed-kowsar-505220328" target="_blank">linkedin.com/in/mahabub-ahmed-kowsar-505220328</a><br>
+💻 GitHub: <a href="https://github.com/Mahabub21" target="_blank">github.com/Mahabub21</a><br>
+🌐 Portfolio: <a href="https://mahabub21.github.io/Portfolio/" target="_blank">mahabub21.github.io/Portfolio/</a><br>
 
 ⚙️ PROFILE SETUP DETAILS
 ----------------------
-👤 Name: Mahabub Ahmed Kowsar<br>
-🏫 Company: North South University (Computer Science Student)<br>
-📍 Location: Dhaka, Bangladesh<br>
-🌐 Website: https://mahabub21.github.io/Portfolio/
+👤 Name: Mahabub Ahmed Kowsar
+🏫 Company: North South University (Computer Science Student)
+📍 Location: Dhaka, Bangladesh
+🌐 Website: <a href="https://mahabub21.github.io/Portfolio/" target="_blank">mahabub21.github.io/Portfolio/</a><br>
 
 📂 REPOSITORY SUGGESTIONS
 ----------------------
