@@ -91,6 +91,6 @@ challenges through technology.
 
 🏷️ RECOMMENDED REPOSITORY TAGS
 ----------------------------
-🌐 web-development • <br>🎨 frontend • <br>💻 html-css-javascript • <br>🐘 php • <br>🗄️ mysql • <br>🤖 machine-learning • <br>
-🐍 python • <br>🏥 healthcare-technology • <br>🎓 educational-platform • <br>📱 responsive-design • <br>
-🎯 user-experience • <br>💻 computer-science • <br>👨‍🎓 student-project
+🌐 web-development  <br>🎨 frontend  <br>💻 html-css-javascript  <br>🐘 php  <br>🗄️ mysql  <br>🤖 machine-learning  <br>
+🐍 python  <br>🏥 healthcare-technology  <br>🎓 educational-platform  <br>📱 responsive-design  <br>
+🎯 user-experience  <br>💻 computer-science  <br>👨‍🎓 student-project
