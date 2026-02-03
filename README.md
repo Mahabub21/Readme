@@ -5,7 +5,7 @@
 </div>
 ================================================================================
 
-📱 GITHUB BIO SECTION
+📱 BIO SECTION
 ------------------
 🎓 Final-year Computer Science & Engineering Student at North South University
 💻 Frontend Developer | Python & Machine Learning Enthusiast
